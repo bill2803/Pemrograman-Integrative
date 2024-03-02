@@ -5,7 +5,7 @@ result = whole_number/3
 result2 = float(result)
 
 if result2.is_integer():
-    print(f"The result is : {int(result)}")
+    print(f"The result is : {result2:.1f}")
 
 else:
     print(f"The result is : {result2:.3f}")
