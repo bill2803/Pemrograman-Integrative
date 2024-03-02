@@ -1,3 +1,3 @@
-Nama : Bill Clinton
-NIM : 211402083
-KOM : B
+Nama : Bill Clinton <br>
+NIM : 211402083 <br>
+KOM : B <br>
